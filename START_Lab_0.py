@@ -10,7 +10,7 @@ def lab0Question2(name):
     # return them as a string with a comma in between
     first_last = None
     first_last = name[0] + "," + name[-1]
-
+    print("test print :D " + first_last)
     return first_last
 
 def lab0Question3(full_name):
